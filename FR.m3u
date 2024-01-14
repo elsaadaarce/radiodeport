@@ -1,198 +1,97 @@
 #EXTM3U
-#EXTINF:0,BEIN SPORTS NEWS HD
-#EXTVLCOPT:http-user-agent=airmaxpro
-https://airmaxtv.online:443/airmaxpro447/airmaxpro744/2.ts
-#EXTINF:0,BEIN  SPORTS HD
-#EXTVLCOPT:http-user-agent=airmaxpro
-https://airmaxtv.online:443/airmaxpro447/airmaxpro744/3.ts
-#EXTINF:0,BeinSport1
-#EXTVLCOPT:http-user-agent=airmaxpro
-https://airmaxtv.online:443/airmaxpro447/airmaxpro744/4.ts
-#EXTINF:0,BeinSport2
-#EXTVLCOPT:http-user-agent=airmaxpro
-https://airmaxtv.online:443/airmaxpro447/airmaxpro744/5.ts
-#EXTINF:0,BeinSport3
-#EXTVLCOPT:http-user-agent=airmaxpro
-https://airmaxtv.online:443/airmaxpro447/airmaxpro744/6.ts
-#EXTINF:0,BeinSport4
-#EXTVLCOPT:http-user-agent=airmaxpro
-https://airmaxtv.online:443/airmaxpro447/airmaxpro744/10.ts
-#EXTINF:0,BeinSport5
-#EXTVLCOPT:http-user-agent=airmaxpro
-https://airmaxtv.online:443/airmaxpro447/airmaxpro744/11.ts
-#EXTINF:0,BeinSport6
-#EXTVLCOPT:http-user-agent=airmaxpro
-https://airmaxtv.online:443/airmaxpro447/airmaxpro744/12.ts
-#EXTINF:0,BeinSport7
-#EXTVLCOPT:http-user-agent=airmaxpro
-https://airmaxtv.online:443/airmaxpro447/airmaxpro744/13.ts
-#EXTINF:0,BeinSport8
-#EXTVLCOPT:http-user-agent=airmaxpro
-https://airmaxtv.online:443/airmaxpro447/airmaxpro744/7.ts
-#EXTINF:0,BeinSport9
-#EXTVLCOPT:http-user-agent=airmaxpro
-https://airmaxtv.online:443/airmaxpro447/airmaxpro744/8.ts
-#EXTINF:0,BEIN SPORTS French HD1
-#EXTVLCOPT:http-user-agent=airmaxpro
-https://airmaxtv.online:443/airmaxpro447/airmaxpro744/19.ts
-#EXTINF:0,BEIN SPORTS French HD2
-#EXTVLCOPT:http-user-agent=airmaxpro
-https://airmaxtv.online:443/airmaxpro447/airmaxpro744/20.ts
-#EXTINF:0,ad sport premium 1 #EXTVLCOPT:http-user-agent=airmaxpro
-https://airmaxtv.online:443/airmaxpro447/airmaxpro744/295.ts
-#EXTINF:0,ad sport premium 2 #EXTVLCOPT:http-user-agent=airmaxpro
-https://airmaxtv.online:443/airmaxpro447/airmaxpro744/296.ts
-#EXTINF:0,ssc news #EXTVLCOPT:http-user-agent=airmaxpro
-https://airmaxtv.online:443/airmaxpro447/airmaxpro744/21.ts
-#EXTINF:0,ssc 1 #EXTVLCOPT:http-user-agent=airmaxpro
-https://airmaxtv.online:443/airmaxpro447/airmaxpro744/22.ts
-#EXTINF:0,ssc 2 #EXTVLCOPT:http-user-agent=airmaxpro
-https://airmaxtv.online:443/airmaxpro447/airmaxpro744/23.ts
-#EXTINF:0,ssc 3 #EXTVLCOPT:http-user-agent=airmaxpro
-https://airmaxtv.online:443/airmaxpro447/airmaxpro744/24.ts
-#EXTINF:0,ssc 4 #EXTVLCOPT:http-user-agent=airmaxpro
-https://airmaxtv.online:443/airmaxpro447/airmaxpro744/25.ts
-#EXTINF:0,ssc 5 #EXTVLCOPT:http-user-agent=airmaxpro
-https://airmaxtv.online:443/airmaxpro447/airmaxpro744/26.ts
-#EXTINF:0,ssc 1 extra #EXTVLCOPT:http-user-agent=airmaxpro
-https://airmaxtv.online:443/airmaxpro447/airmaxpro744/27.ts
-#EXTINF:0,ssc 2 extra #EXTVLCOPT:http-user-agent=airmaxpro
-https://airmaxtv.online:443/airmaxpro447/airmaxpro744/28.ts
-#EXTINF:0,Bein AFCON 1 HD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/UmV2NM8hJC/85
-#EXTINF:0,Bein AFCON2 SD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/UmV2NM8hJC/86
-#EXTINF:0,Bein AFCON 1 SD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/UmV2NM8hJC/87
-#EXTINF:0,Bein ASIA CUP 1 SD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/UmV2NM8hJC/42
-#EXTINF:0,Bein ASIA CUP 1 HD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/UmV2NM8hJC/43
-#EXTINF:0,beIN News
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/UmV2NM8hJC/23
-#EXTINF:0,BeinSport 1HD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/UmV2NM8hJC/24
-#EXTINF:0,BeinSport 1SD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/UmV2NM8hJC/25
-#EXTINF:0,BeinSport 2HD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/UmV2NM8hJC/26
-#EXTINF:0,BeinSport 2SD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/UmV2NM8hJC/27
-#EXTINF:0,BeinSport 3HD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/UmV2NM8hJC/28
-#EXTINF:0,BeinSport 3SD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/UmV2NM8hJC/29
-#EXTINF:0,BeinSport 4HD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/UmV2NM8hJC/30
-#EXTINF:0,BeinSport 4SD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/UmV2NM8hJC/31
-#EXTINF:0,BeinSport 5HD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/UmV2NM8hJC/32
-#EXTINF:0,BeinSport 5 SD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/UmV2NM8hJC/33
-#EXTINF:0,BeinSport 6HD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/UmV2NM8hJC/34
-#EXTINF:0,BeinSport 7HD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/UmV2NM8hJC/36
-#EXTINF:0,BeinSport 7SD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/UmV2NM8hJC/37
-#EXTINF:0,BeinSport 8HD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/UmV2NM8hJC/38
-#EXTINF:0,BeinSport 9HD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/UmV2NM8hJC/40
-#EXTINF:0,BeinSport extra1
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/UmV2NM8hJC/41
-#EXTINF:0,BeinSport 6SD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/UmV2NM8hJC/35
-#EXTINF:0,BeinSport 8SD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/UmV2NM8hJC/39
-#EXTINF:0,bein_English 1
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/UmV2NM8hJC/21
-#EXTINF:0,beIN_NBA_HD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/UmV2NM8hJC/55
-#EXTINF:0,Bein english 2
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/UmV2NM8hJC/14
-#EXTINF:0,Bein english 3
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/UmV2NM8hJC/15
-#EXTINF:0,Abu Dhabi Sports Premium 2
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/UmV2NM8hJC/19
-#EXTINF:0,Abu Dhabi Sports Premium 1
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/UmV2NM8hJC/20
-#EXTINF:0,alrabiaasporthd
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/UmV2NM8hJC/47
-#EXTINF:0,iraqiasporthd
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/UmV2NM8hJC/48
-#EXTINF:0,alkasstwohd
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/UmV2NM8hJC/49
-#EXTINF:0,alkassonehd
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/UmV2NM8hJC/50
-#EXTINF:0,kuwaittvsporthd
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/UmV2NM8hJC/52
-#EXTINF:0,ontimesportv
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/UmV2NM8hJC/57
-#EXTINF:0,Ontime 2
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/UmV2NM8hJC/58
-#EXTINF:0,SSC_01_HD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/UmV2NM8hJC/76
-#EXTINF:0,SSC_02_HD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/UmV2NM8hJC/77
-#EXTINF:0,SSC_03_HD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/UmV2NM8hJC/78
-#EXTINF:0,SSC_04_HD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/UmV2NM8hJC/79
-#EXTINF:0,SSC_05_HD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/UmV2NM8hJC/80
-#EXTINF:0,SSC_EXTRA_1_HD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/UmV2NM8hJC/81
-#EXTINF:0,SSC_EXTRA_2_HD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/UmV2NM8hJC/82
-#EXTINF:0,SSC_EXTRA_3_HD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/UmV2NM8hJC/83
-#EXTINF:0,SSC_NEWS_HD
-#EXTVLCOPT:http-user-agent=mixflix
-https://mixflixpro.online:443/Newapp/UmV2NM8hJC/84
+#EXTINF:0,BEIN_Sports_News
+http://server.sibfungold.com:8080/edyedynson/EYUOz77tZC24hQUiNzWV/2296
+#EXTINF:0,BeIN_Sport_NBA_HD
+http://server.sibfungold.com:8080/edyedynson/EYUOz77tZC24hQUiNzWV/49691
+#EXTINF:0,BeIN_Sport_01_SD
+http://server.sibfungold.com:8080/edyedynson/EYUOz77tZC24hQUiNzWV/3244
+#EXTINF:0,BeIN_Sport_01_HD
+http://server.sibfungold.com:8080/edyedynson/EYUOz77tZC24hQUiNzWV/1
+#EXTINF:0,BEIN_Sport_01_Hevc50
+http://server.sibfungold.com:8080/edyedynson/EYUOz77tZC24hQUiNzWV/52269
+#EXTINF:0,BeIN_Sport_02_SD
+http://server.sibfungold.com:8080/edyedynson/EYUOz77tZC24hQUiNzWV/3245
+#EXTINF:0,BeIN_Sport_02_HD
+http://server.sibfungold.com:8080/edyedynson/EYUOz77tZC24hQUiNzWV/2
+#EXTINF:0,BEIN_Sport_02_Hevc50
+http://server.sibfungold.com:8080/edyedynson/EYUOz77tZC24hQUiNzWV/48878
+#EXTINF:0,BeIN_Sport_03_SD
+http://server.sibfungold.com:8080/edyedynson/EYUOz77tZC24hQUiNzWV/3246
+#EXTINF:0,BeIN_Sport_03_HD
+http://server.sibfungold.com:8080/edyedynson/EYUOz77tZC24hQUiNzWV/3
+#EXTINF:0,BEIN_Sport_03_Hevc50
+http://server.sibfungold.com:8080/edyedynson/EYUOz77tZC24hQUiNzWV/48879
+#EXTINF:0,BeIN_Sport_04_SD
+http://server.sibfungold.com:8080/edyedynson/EYUOz77tZC24hQUiNzWV/3247
+#EXTINF:0,BeIN_Sport_04_HD
+http://server.sibfungold.com:8080/edyedynson/EYUOz77tZC24hQUiNzWV/4
+#EXTINF:0,BeIN_Sport_04_Hevc50
+http://server.sibfungold.com:8080/edyedynson/EYUOz77tZC24hQUiNzWV/49606
+#EXTINF:0,BeIN_Sport_05_SD
+http://server.sibfungold.com:8080/edyedynson/EYUOz77tZC24hQUiNzWV/49383
+#EXTINF:0,BeIN_Sport_05_HD
+http://server.sibfungold.com:8080/edyedynson/EYUOz77tZC24hQUiNzWV/5
+#EXTINF:0,BeIN_Sport_05_Hevc50
+http://server.sibfungold.com:8080/edyedynson/EYUOz77tZC24hQUiNzWV/49605
+#EXTINF:0,BeIN_Sport_06_SD
+http://server.sibfungold.com:8080/edyedynson/EYUOz77tZC24hQUiNzWV/49384
+#EXTINF:0,BeIN_Sport_06_HD
+http://server.sibfungold.com:8080/edyedynson/EYUOz77tZC24hQUiNzWV/6
+#EXTINF:0,BeIN_Sport_06_Hevc50
+http://server.sibfungold.com:8080/edyedynson/EYUOz77tZC24hQUiNzWV/49621
+#EXTINF:0,BeIN_Sport_07_SD
+http://server.sibfungold.com:8080/edyedynson/EYUOz77tZC24hQUiNzWV/49385
+#EXTINF:0,BeIN_Sport_07_HD
+http://server.sibfungold.com:8080/edyedynson/EYUOz77tZC24hQUiNzWV/7
+#EXTINF:0,BeIN_Sport_07_Hevc50
+http://server.sibfungold.com:8080/edyedynson/EYUOz77tZC24hQUiNzWV/49433
+#EXTINF:0,BeIN_Sport_08_SD
+http://server.sibfungold.com:8080/edyedynson/EYUOz77tZC24hQUiNzWV/49685
+#EXTINF:0,BeIN_Sport_08_HD
+http://server.sibfungold.com:8080/edyedynson/EYUOz77tZC24hQUiNzWV/9
+#EXTINF:0,BeIN_Sport_08_Hevc50
+http://server.sibfungold.com:8080/edyedynson/EYUOz77tZC24hQUiNzWV/51018
+#EXTINF:0,BeIN_Sport_09_SD
+http://server.sibfungold.com:8080/edyedynson/EYUOz77tZC24hQUiNzWV/49386
+#EXTINF:0,BeIN_Sport_09_HD
+http://server.sibfungold.com:8080/edyedynson/EYUOz77tZC24hQUiNzWV/8
+#EXTINF:0,BeIN_Sport_09_Hevc50
+http://server.sibfungold.com:8080/edyedynson/EYUOz77tZC24hQUiNzWV/11
+#EXTINF:0,BeIN_Sport_XTRA_01
+http://server.sibfungold.com:8080/edyedynson/EYUOz77tZC24hQUiNzWV/10
+#EXTINF:0,BeIN_Sport_XTRA_02
+http://server.sibfungold.com:8080/edyedynson/EYUOz77tZC24hQUiNzWV/53670
+#EXTINF:0,BeIN_Sport_01_French_HD
+http://server.sibfungold.com:8080/edyedynson/EYUOz77tZC24hQUiNzWV/54472
+#EXTINF:0,BeIN_Sport_02_French_HD
+http://server.sibfungold.com:8080/edyedynson/EYUOz77tZC24hQUiNzWV/54473
+#EXTINF:0,BeIN_Sport_01_English_HD
+http://server.sibfungold.com:8080/edyedynson/EYUOz77tZC24hQUiNzWV/54470
+#EXTINF:0,BeIN_Sport_02_English_HD
+http://server.sibfungold.com:8080/edyedynson/EYUOz77tZC24hQUiNzWV/54469
+#EXTINF:0,BeIN_Sport_03_English_HD
+http://server.sibfungold.com:8080/edyedynson/EYUOz77tZC24hQUiNzWV/54471
+#EXTINF:0,AR_BEIN_SPORTS_MAX_1_AF
+http://server.sibfungold.com:8080/edyedynson/EYUOz77tZC24hQUiNzWV/56065
+#EXTINF:0,AR_BEIN_SPORTS_MAX_2_AF
+http://server.sibfungold.com:8080/edyedynson/EYUOz77tZC24hQUiNzWV/56066
+#EXTINF:0,AR: Al KASS 1 HD
+http://server.sibfungold.com:8080/edyedynson/EYUOz77tZC24hQUiNzWV/1138
+#EXTINF:0,AR: Al KASS 2 HD
+http://server.sibfungold.com:8080/edyedynson/EYUOz77tZC24hQUiNzWV/1139
+#EXTINF:0,AR: Al KASS 4 HD
+http://server.sibfungold.com:8080/edyedynson/EYUOz77tZC24hQUiNzWV/50586
+#EXTINF:0,AR: Al KASS 5 HD
+http://server.sibfungold.com:8080/edyedynson/EYUOz77tZC24hQUiNzWV/50587
+#EXTINF:0,myFHD: ALKASS 4 HEVC
+http://server.sibfungold.com:8080/edyedynson/EYUOz77tZC24hQUiNzWV/52687
+#EXTINF:0,myFHD: ALKASS 1 HEVC
+http://server.sibfungold.com:8080/edyedynson/EYUOz77tZC24hQUiNzWV/54520
+#EXTINF:0,myFHD: ALKASS 2 HEVC
+http://server.sibfungold.com:8080/edyedynson/EYUOz77tZC24hQUiNzWV/54521
+#EXTINF:0,myFHD: ALKASS 3 HEVC
+http://server.sibfungold.com:8080/edyedynson/EYUOz77tZC24hQUiNzWV/54522
+#EXTINF:0,AR: Al KASS 3 HD
+http://server.sibfungold.com:8080/edyedynson/EYUOz77tZC24hQUiNzWV/54523
+#EXTINF:0,myFHD: ALKASS 5 HEVC
+http://server.sibfungold.com:8080/edyedynson/EYUOz77tZC24hQUiNzWV/54849
