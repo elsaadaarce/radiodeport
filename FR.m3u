@@ -1,13 +1,139 @@
 #EXTM3U
-#EXTINF:0,AR_BEIN_SPORTS_MAX_1_AF
-http://server.sibfungold.com:8080/gazi2po2/@sq1zpg7B9Rpo2@/56065
-#EXTINF:0,AR_BEIN_SPORTS_MAX_2_AF
-http://server.sibfungold.com:8080/gazi2po2/@sq1zpg7B9Rpo2@/56066
-#EXTINF:0,AR_BEIN_SPORTS_MAX_1_AF
-http://server.sibfungold.com:8080/edyedynson/EYUOz77tZC24hQUiNzWV/56065
-#EXTINF:0,AR_BEIN_SPORTS_MAX_2_AF
-http://server.sibfungold.com:8080/edyedynson/EYUOz77tZC24hQUiNzWV/56066
-#EXTINF:0,AR_BEIN_SPORTS_MAX_1_AF
-http://server.sibfungold.com:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/56065
-#EXTINF:0,AR_BEIN_SPORTS_MAX_2_AF
-http://server.sibfungold.com:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/56066
+#EXTINF:0,Bein AFCON 1 HD
+#EXTVLCOPT:http-user-agent=mixflix
+https://mixflixpro.online:443/Newapp/RT8RfhBnaK/85
+#EXTINF:0,Bein AFCON2 SD
+#EXTVLCOPT:http-user-agent=mixflix
+https://mixflixpro.online:443/Newapp/RT8RfhBnaK/86
+#EXTINF:0,Bein AFCON 1 SD
+#EXTVLCOPT:http-user-agent=mixflix
+https://mixflixpro.online:443/Newapp/RT8RfhBnaK/87
+#EXTINF:0,Bein ASIA CUP 1 SD
+#EXTVLCOPT:http-user-agent=mixflix
+https://mixflixpro.online:443/Newapp/RT8RfhBnaK/42
+#EXTINF:0,Bein ASIA CUP 1 HD
+#EXTVLCOPT:http-user-agent=mixflix
+https://mixflixpro.online:443/Newapp/RT8RfhBnaK/43
+#EXTINF:0,beIN News
+#EXTVLCOPT:http-user-agent=mixflix
+https://mixflixpro.online:443/Newapp/RT8RfhBnaK/23
+#EXTINF:0,BeinSport 1HD
+#EXTVLCOPT:http-user-agent=mixflix
+https://mixflixpro.online:443/Newapp/RT8RfhBnaK/24
+#EXTINF:0,BeinSport 1SD
+#EXTVLCOPT:http-user-agent=mixflix
+https://mixflixpro.online:443/Newapp/RT8RfhBnaK/25
+#EXTINF:0,BeinSport 2HD
+#EXTVLCOPT:http-user-agent=mixflix
+https://mixflixpro.online:443/Newapp/RT8RfhBnaK/26
+#EXTINF:0,BeinSport 2SD
+#EXTVLCOPT:http-user-agent=mixflix
+https://mixflixpro.online:443/Newapp/RT8RfhBnaK/27
+#EXTINF:0,BeinSport 3HD
+#EXTVLCOPT:http-user-agent=mixflix
+https://mixflixpro.online:443/Newapp/RT8RfhBnaK/28
+#EXTINF:0,BeinSport 3SD
+#EXTVLCOPT:http-user-agent=mixflix
+https://mixflixpro.online:443/Newapp/RT8RfhBnaK/29
+#EXTINF:0,BeinSport 4HD
+#EXTVLCOPT:http-user-agent=mixflix
+https://mixflixpro.online:443/Newapp/RT8RfhBnaK/30
+#EXTINF:0,BeinSport 4SD
+#EXTVLCOPT:http-user-agent=mixflix
+https://mixflixpro.online:443/Newapp/RT8RfhBnaK/31
+#EXTINF:0,BeinSport 5HD
+#EXTVLCOPT:http-user-agent=mixflix
+https://mixflixpro.online:443/Newapp/RT8RfhBnaK/32
+#EXTINF:0,BeinSport 5 SD
+#EXTVLCOPT:http-user-agent=mixflix
+https://mixflixpro.online:443/Newapp/RT8RfhBnaK/33
+#EXTINF:0,BeinSport 6HD
+#EXTVLCOPT:http-user-agent=mixflix
+https://mixflixpro.online:443/Newapp/RT8RfhBnaK/34
+#EXTINF:0,BeinSport 7HD
+#EXTVLCOPT:http-user-agent=mixflix
+https://mixflixpro.online:443/Newapp/RT8RfhBnaK/36
+#EXTINF:0,BeinSport 7SD
+#EXTVLCOPT:http-user-agent=mixflix
+https://mixflixpro.online:443/Newapp/RT8RfhBnaK/37
+#EXTINF:0,BeinSport 8HD
+#EXTVLCOPT:http-user-agent=mixflix
+https://mixflixpro.online:443/Newapp/RT8RfhBnaK/38
+#EXTINF:0,BeinSport 9HD
+#EXTVLCOPT:http-user-agent=mixflix
+https://mixflixpro.online:443/Newapp/RT8RfhBnaK/40
+#EXTINF:0,BeinSport extra1
+#EXTVLCOPT:http-user-agent=mixflix
+https://mixflixpro.online:443/Newapp/RT8RfhBnaK/41
+#EXTINF:0,BeinSport 6SD
+#EXTVLCOPT:http-user-agent=mixflix
+https://mixflixpro.online:443/Newapp/RT8RfhBnaK/35
+#EXTINF:0,BeinSport 8SD
+#EXTVLCOPT:http-user-agent=mixflix
+https://mixflixpro.online:443/Newapp/RT8RfhBnaK/39
+#EXTINF:0,bein_English 1
+#EXTVLCOPT:http-user-agent=mixflix
+https://mixflixpro.online:443/Newapp/RT8RfhBnaK/21
+#EXTINF:0,beIN_NBA_HD
+#EXTVLCOPT:http-user-agent=mixflix
+https://mixflixpro.online:443/Newapp/RT8RfhBnaK/55
+#EXTINF:0,Bein english 2
+#EXTVLCOPT:http-user-agent=mixflix
+https://mixflixpro.online:443/Newapp/RT8RfhBnaK/14
+#EXTINF:0,Bein english 3
+#EXTVLCOPT:http-user-agent=mixflix
+https://mixflixpro.online:443/Newapp/RT8RfhBnaK/15
+#EXTINF:0,Abu Dhabi Sports Premium 2
+#EXTVLCOPT:http-user-agent=mixflix
+https://mixflixpro.online:443/Newapp/RT8RfhBnaK/19
+#EXTINF:0,Abu Dhabi Sports Premium 1
+#EXTVLCOPT:http-user-agent=mixflix
+https://mixflixpro.online:443/Newapp/RT8RfhBnaK/20
+#EXTINF:0,alrabiaasporthd
+#EXTVLCOPT:http-user-agent=mixflix
+https://mixflixpro.online:443/Newapp/RT8RfhBnaK/47
+#EXTINF:0,iraqiasporthd
+#EXTVLCOPT:http-user-agent=mixflix
+https://mixflixpro.online:443/Newapp/RT8RfhBnaK/48
+#EXTINF:0,alkasstwohd
+#EXTVLCOPT:http-user-agent=mixflix
+https://mixflixpro.online:443/Newapp/RT8RfhBnaK/49
+#EXTINF:0,alkassonehd
+#EXTVLCOPT:http-user-agent=mixflix
+https://mixflixpro.online:443/Newapp/RT8RfhBnaK/50
+#EXTINF:0,kuwaittvsporthd
+#EXTVLCOPT:http-user-agent=mixflix
+https://mixflixpro.online:443/Newapp/RT8RfhBnaK/52
+#EXTINF:0,ontimesportv
+#EXTVLCOPT:http-user-agent=mixflix
+https://mixflixpro.online:443/Newapp/RT8RfhBnaK/57
+#EXTINF:0,Ontime 2
+#EXTVLCOPT:http-user-agent=mixflix
+https://mixflixpro.online:443/Newapp/RT8RfhBnaK/58
+#EXTINF:0,SSC_01_HD
+#EXTVLCOPT:http-user-agent=mixflix
+https://mixflixpro.online:443/Newapp/RT8RfhBnaK/76
+#EXTINF:0,SSC_02_HD
+#EXTVLCOPT:http-user-agent=mixflix
+https://mixflixpro.online:443/Newapp/RT8RfhBnaK/77
+#EXTINF:0,SSC_03_HD
+#EXTVLCOPT:http-user-agent=mixflix
+https://mixflixpro.online:443/Newapp/RT8RfhBnaK/78
+#EXTINF:0,SSC_04_HD
+#EXTVLCOPT:http-user-agent=mixflix
+https://mixflixpro.online:443/Newapp/RT8RfhBnaK/79
+#EXTINF:0,SSC_05_HD
+#EXTVLCOPT:http-user-agent=mixflix
+https://mixflixpro.online:443/Newapp/RT8RfhBnaK/80
+#EXTINF:0,SSC_EXTRA_1_HD
+#EXTVLCOPT:http-user-agent=mixflix
+https://mixflixpro.online:443/Newapp/RT8RfhBnaK/81
+#EXTINF:0,SSC_EXTRA_2_HD
+#EXTVLCOPT:http-user-agent=mixflix
+https://mixflixpro.online:443/Newapp/RT8RfhBnaK/82
+#EXTINF:0,SSC_EXTRA_3_HD
+#EXTVLCOPT:http-user-agent=mixflix
+https://mixflixpro.online:443/Newapp/RT8RfhBnaK/83
+#EXTINF:0,SSC_NEWS_HD
+#EXTVLCOPT:http-user-agent=mixflix
+https://mixflixpro.online:443/Newapp/RT8RfhBnaK/84
